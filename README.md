@@ -17,7 +17,7 @@ Focused on results and delivering clean, high-quality code.<br />Tomorrow is goi
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 <br />
-<a href="https://www.codewars.com/users/FazliddinAbdazimov"><img src="https://www.codewars.com/users/FazliddinAbdazimov/badges/small"></a>
+<a href="https://www.codewars.com/users/FazliddinAbdazimov"><img src="https://www.codewars.com/users/FazliddinAbdazimov/badges/large"></a>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/masxxiii/masxxiii/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/masxxiii/masxxiii/output/github-contribution-grid-snake.svg#gh-light-mode-only)
