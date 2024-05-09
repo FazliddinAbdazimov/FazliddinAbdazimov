@@ -11,8 +11,9 @@ Hi, my name is Fazliddin.
 Focused on results and delivering clean, high-quality code.<br />Tomorrow is going to be a better day unless you make it worse🍀
 </samp>
 <br /> <br />
-<samp>
 <iframe src="https://discord.com/widget?id=1238060957532426242&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<samp>
+
 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
