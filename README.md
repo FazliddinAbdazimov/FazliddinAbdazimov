@@ -24,3 +24,4 @@ Focused on results and delivering clean, high-quality code.<br />Tomorrow is goi
 ![github contribution grid snake animation](https://raw.githubusercontent.com/masxxiii/masxxiii/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <a href="#"><img src="https://raw.githubusercontent.com/masxxiii/masxxiii/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"></a>
+<a href="#"><img src="https://raw.githubusercontent.com/masxxiii/masxxiii/output/github-contribution-grid-snake.svg#gh-light-mode-only"></a>
