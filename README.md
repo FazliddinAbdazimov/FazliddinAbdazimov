@@ -19,6 +19,7 @@ Focused on results and delivering clean, high-quality code.<br />Tomorrow is goi
 [![LeetCode user fazliddinabdazimov](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ffazliddinabdazimov&logo=leetcode&logoColor=yellow)](https://leetcode.com/fazliddinabdazimov/)
 <br /> <br />
 <a href="https://www.codewars.com/users/FazliddinAbdazimov"><img src="https://www.codewars.com/users/FazliddinAbdazimov/badges/large"></a>
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/masxxiii/masxxiii/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)(https://github.com/FazliddinAbdazimov)
+<picture>
+![github contribution grid snake animation](https://raw.githubusercontent.com/masxxiii/masxxiii/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/masxxiii/masxxiii/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+</picture>
