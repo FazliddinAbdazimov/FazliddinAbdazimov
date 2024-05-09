@@ -9,7 +9,7 @@ Hi, my name is Fazliddin.
 <br /> <br />
 <samp>
 Focused on results and delivering clean, high-quality code.
-\nTomorrow is going to be a better day unless you make it worse🍀
+\tTomorrow is going to be a better day unless you make it worse🍀
 </samp>
 <br /> <br />
 <samp>
