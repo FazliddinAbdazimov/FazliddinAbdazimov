@@ -13,9 +13,9 @@ Focused on results and delivering clean, high-quality code.<br />Tomorrow is goi
 <br /> <br />
 <samp>
 
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://pub.dev/)
+[![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
+[![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
+[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)
 [![LeetCode user fazliddinabdazimov](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ffazliddinabdazimov&logo=leetcode&logoColor=yellow)](https://leetcode.com/fazliddinabdazimov/)
 <br /> <br />
 <a href="https://www.codewars.com/users/FazliddinAbdazimov"><img src="https://www.codewars.com/users/FazliddinAbdazimov/badges/large"></a>
