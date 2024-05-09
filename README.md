@@ -21,4 +21,4 @@ Focused on results and delivering clean, high-quality code.<br />Tomorrow is goi
 <a href="https://www.codewars.com/users/FazliddinAbdazimov"><img src="https://www.codewars.com/users/FazliddinAbdazimov/badges/large"></a>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/masxxiii/masxxiii/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)(#)
-![github contribution grid snake animation](https://raw.githubusercontent.com/masxxiii/masxxiii/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/masxxiii/masxxiii/output/github-contribution-grid-snake.svg#gh-light-mode-only)(#)
