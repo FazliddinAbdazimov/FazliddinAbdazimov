@@ -4,7 +4,7 @@
 <a href="https://www.instagram.com/hiro.coding"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <br /> <br />
 <samp>
-Hi, my name is Fazliddin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="24px" >
+Hi, my name is Fazliddin <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="24px" ></a>
 </samp>
 <br /> <br />
 <samp>
@@ -20,8 +20,5 @@ Focused on results and delivering clean, high-quality code.<br />Tomorrow is goi
 <br /> <br />
 <a href="https://www.codewars.com/users/FazliddinAbdazimov"><img src="https://www.codewars.com/users/FazliddinAbdazimov/badges/large"></a>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/masxxiii/masxxiii/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/masxxiii/masxxiii/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-<a href="#"><img src="https://raw.githubusercontent.com/masxxiii/masxxiii/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"></a>
-<a href="#"><img src="https://raw.githubusercontent.com/masxxiii/masxxiii/output/github-contribution-grid-snake.svg#gh-light-mode-only"></a>
+[![github contribution grid snake animation](https://raw.githubusercontent.com/masxxiii/masxxiii/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)](#)
+[![github contribution grid snake animation](https://raw.githubusercontent.com/masxxiii/masxxiii/output/github-contribution-grid-snake.svg#gh-light-mode-only)](#)
